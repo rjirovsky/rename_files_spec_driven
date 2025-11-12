@@ -1,0 +1,4 @@
+File with special characters in content.
+RJ number: RJ-2023-88888
+Special chars: @#$%^&*()
+Should handle gracefully.

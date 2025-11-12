@@ -1,0 +1,3 @@
+This file is in a nested directory.
+RJ number: RJ-2023-99999
+It should be renamed while maintaining its directory structure.

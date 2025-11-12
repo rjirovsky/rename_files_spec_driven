@@ -1,0 +1,2 @@
+This file has no test request number pattern.
+Just some regular text without any TR patterns.

@@ -1,0 +1,6 @@
+This file contains malformed patterns that should be ignored.
+Invalid: RJ-24-12345 (year too short)
+Invalid: RJ-2024-123 (number too short)
+Invalid: RJ-2024-ABCDE (letters instead of numbers)
+Valid: RJ-2024-67890
+The script should only match the valid pattern.

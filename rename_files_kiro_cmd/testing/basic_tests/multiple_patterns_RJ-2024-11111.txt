@@ -1,0 +1,4 @@
+This file contains multiple RJ numbers.
+First pattern: RJ-2024-11111
+Second pattern: RJ-2024-22222
+The script should use the first occurrence: RJ-2024-11111

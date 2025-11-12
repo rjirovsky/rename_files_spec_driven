@@ -1,0 +1,3 @@
+This file already has a RJ number in its filename.
+Content also contains: RJ-2024-12345
+The script should skip this file to avoid duplicate renaming.
