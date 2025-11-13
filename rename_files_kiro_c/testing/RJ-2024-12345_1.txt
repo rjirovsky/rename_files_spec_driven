@@ -1,0 +1,3 @@
+This is a test file that contains an RJ number.
+The RJ number is RJ-2024-12345 and it should be extracted.
+This file should be renamed to RJ-2024-12345.txt

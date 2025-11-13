@@ -1,0 +1,6 @@
+This file contains multiple RJ patterns.
+First pattern: RJ-2024-11111
+Second pattern: RJ-2024-22222
+Third pattern: RJ-2024-33333
+
+The utility should use only the first pattern (RJ-2024-11111).

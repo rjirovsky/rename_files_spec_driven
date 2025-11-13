@@ -1,0 +1,2 @@
+This nested file has no valid RJ pattern.
+It should remain unchanged.

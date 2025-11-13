@@ -1,0 +1,3 @@
+This is a nested file in a subdirectory.
+It contains RJ-2024-77777 pattern.
+Testing recursive directory processing.

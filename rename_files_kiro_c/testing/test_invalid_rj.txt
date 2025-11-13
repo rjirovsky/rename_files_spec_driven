@@ -1,0 +1,5 @@
+This file has invalid patterns:
+RJ-24-12345 (year too short)
+RJ-2024-123 (number too short)
+RJ-ABCD-12345 (non-numeric year)
+It should be skipped.

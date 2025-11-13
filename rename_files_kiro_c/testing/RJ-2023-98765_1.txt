@@ -1,0 +1,5 @@
+This file has a lot of content before the RJ pattern.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+The RJ number is at the end: RJ-2023-98765

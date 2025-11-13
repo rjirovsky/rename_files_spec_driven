@@ -1,0 +1,2 @@
+This file has no RJ number.
+It should be skipped during processing.
